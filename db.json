@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "rawllings",
+      "email": "rawllings@gmail.com",
+      "password": "1234567",
+      "type": "admin"
+    },
+    {
+      "email": "rawllings@gmail.com",
+      "password": "1234567",
+      "userType": "Student",
+      "id": 2
+    },
+    {
+      "email": "rawllings@gmail.com",
+      "password": "1234567",
+      "userType": "Student",
+      "id": 3
+    }
+  ]
+}
